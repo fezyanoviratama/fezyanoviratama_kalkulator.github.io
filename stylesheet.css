@@ -1,13 +1,11 @@
 .calculator{
 text-align: center;
 margin: 100px auto;
-padding-top: 2px;
 width: 450px;
 height: 550px;
 background-color: grey;
 border-radius:15px;
-padding: 45px;
-padding-bottom: 1px;
+padding: 35px 15px 0 15px;
 
 }
 
@@ -73,4 +71,6 @@ button:hover {
 .equal-sign:hover {
     background-color: darkgreen;
 }
+
+
 
